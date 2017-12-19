@@ -1,4 +1,5 @@
 let BinarySearchTree = require('./BinarySearchTree')
+let quickSort = require('./quickSort')
 
 function BuildTree(numberArray) {
   let tree = {}
@@ -51,3 +52,6 @@ function getMediumValue(numberArray) {
 let numberArray = [44,33,1,46,33,46,32,13,34,34,32,43,6,78]
 let mediumNumber = getMediumValue(bubbleSort(numberArray))
 console.log(mediumNumber)
+
+quickSort(numberArray)
+console.log(numberArray)

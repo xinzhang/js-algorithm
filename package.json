@@ -1,0 +1,25 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "description": "- Tree - Sort",
+  "main": "balanced-parenthese_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinzhang/js-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinzhang/js-algorithm/issues"
+  },
+  "homepage": "https://github.com/xinzhang/js-algorithm#readme",
+  "dependencies": {
+    "d3": "^4.12.0",
+    "d3-node": "^1.1.3",
+    "d3node-linechart": "0.0.7",
+    "node-fetch": "^1.7.3"
+  }
+}
